@@ -1,6 +1,9 @@
 ***Nike StockBot Stock Alert Service***
 ⒸCopyright 2021 Jordan Jancic
 
+Download the ChomeDriver executable file from here:
+https://chromedriver.chromium.org/
+
 The below files must be in the same folder for this bot to work.
 	-Nike_Stock_Bot.py
 	-chromedriver.exe
